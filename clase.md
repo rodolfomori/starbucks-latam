@@ -6,10 +6,12 @@
     [x]Material Icon Theme
     [x]Spanish Language Pack for VS Code
 
-- []HTML (Estructura 💀)
-- []CSS (Estilos - 🧑🏽‍🦱)
-- []JavaScript (Interactividad - 🏃🏽‍♂️)
-- []IA (🤖)
+- [x]HTML (Estructura 💀)
+- [x]CSS (Estilos - 🧑🏽‍🦱)
+- []JavaScript (Interactividad - 🏃🏽‍♂️) (Hoy & Clase 3)
+- [x]IA (🤖)
+- [x]Mentalidad (Hoy)
+- []Carrera (Clase 3)
 
 
 - [x] HTML
@@ -21,10 +23,6 @@
     [x]Selector
     [x]Propiedad
     [x]Valor
-
-
-
-
 
 - []JAVASCRIPT
     []Variables
