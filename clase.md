@@ -25,7 +25,7 @@
     [x]Valor
 
 - []JAVASCRIPT
-    []Variables
+    [x]Variables
     []Funciones
 
 

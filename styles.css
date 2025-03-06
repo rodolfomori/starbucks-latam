@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -68,6 +69,11 @@ body {
     width: 60px;
     cursor: pointer;
     margin: 10px;
+    transition: 0.5s;
+}
+
+.menu img:hover{
+    transform: translateY(-25px);
 }
 
 .circulo {
