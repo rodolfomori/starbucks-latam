@@ -77,3 +77,18 @@ button:hover {
     margin: 10px;
     transition: 0.5s;
 }
+
+.menu img:hover {
+    transform: translateY(-25px);
+}
+
+.circulo {
+    background:#017143;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    clip-path: circle(600px at right 800px);
+    z-index: -1;
+}
